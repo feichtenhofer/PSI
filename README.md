@@ -27,6 +27,6 @@ Please cite the following [paper](http://feichtenhofer.github.io/pubs/Feichtenho
 
 Christoph Feichtenhofer
 
-cfeichtenhofer@gmail.com
+cfeichtenhofer AT gmail.com
 
 http://feichtenhofer.github.io
