@@ -6,7 +6,7 @@ MATLAB implementation of the Perceptual Sharpness Index (PSI)
 * `PSI.m` - Computes the Perceptual Sharpness Index (PSI).
 * `PSI_demo.m` - Demonstrates the computation for a single image.
 
-> Note that the performance of the algorithm may slightly alter according with MATLAB version used (due to MATLAB's edge function).
+> Note that the performance of the algorithm may slightly alter with the MATLAB version used (due to MATLAB's edge function).
 
 Please cite the following [paper](http://feichtenhofer.github.io/pubs/Feichtenhofer_Image_Sharpness_Metric_IEEE_SPL_2013.pdf) if you use this code.
 
